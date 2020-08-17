@@ -2,7 +2,7 @@
 
  The respective Jupyter notebook goes through the process of data acquisition, preprocessing, feature modelling, data cleaning and the machine learning pipeline followed.
 
-Challenge:
+<b>Challenge:</b>
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
