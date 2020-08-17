@@ -1,6 +1,6 @@
  Submission for the Kaggle classification competition for the titanic dataset: This folder contains the submission attempt summary (without hyperparameter tuning).
 
- The respective Jupyter notebook goes through the process of data acquisition, preprocessing, feature modelling, data cleaning and the machine learning pipeline followed.
+ The respective Jupyter notebook goes through the process of data acquisition, preprocessing, feature modelling, data cleaning and the machine learning pipeline followed. <b>A hard/soft voting classifier is created through the use of 10 classification algorithms.</b>
 
 <b>Challenge:</b>
 
